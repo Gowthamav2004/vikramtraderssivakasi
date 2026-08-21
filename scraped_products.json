@@ -1,0 +1,1404 @@
+{
+  "categories": [
+    {
+      "id": "onesoundcrackers",
+      "name": "ONE SOUND CRACKERS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "bijilicrackers",
+      "name": "BIJILI CRACKERS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "groundchakkars",
+      "name": "GROUND CHAKKARS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "wheels",
+      "name": "WHEELS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "flowerpots",
+      "name": "FLOWER POTS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "twinklingstar",
+      "name": "TWINKLING STAR",
+      "icon": "sparkler"
+    },
+    {
+      "id": "pencils",
+      "name": "PENCILS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "kidsvarites",
+      "name": "Kids Varites",
+      "icon": "sparkler"
+    },
+    {
+      "id": "atombombs",
+      "name": "ATOM BOMBS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "rockets",
+      "name": "ROCKETS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "fountains",
+      "name": "FOUNTAINS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "fancypots",
+      "name": "FANCY POTS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "aerialfancy",
+      "name": "AERIAL FANCY",
+      "icon": "sparkler"
+    },
+    {
+      "id": "aerialcommet",
+      "name": "AERIAL COMMET",
+      "icon": "sparkler"
+    },
+    {
+      "id": "aerialsetout",
+      "name": "AERIAL SET OUT",
+      "icon": "sparkler"
+    },
+    {
+      "id": "repeatingfunction",
+      "name": "REPEATING Function",
+      "icon": "sparkler"
+    },
+    {
+      "id": "cracklingcrackers",
+      "name": "CRACKLING CRACKERS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "sparklers",
+      "name": "SPARKLERS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "colourmatches",
+      "name": "COLOUR MATCHES",
+      "icon": "sparkler"
+    },
+    {
+      "id": "rollcaps",
+      "name": "ROLL CAPS",
+      "icon": "sparkler"
+    },
+    {
+      "id": "giftboxesnetrate",
+      "name": "GIFT BOXES - NET RATE",
+      "icon": "sparkler"
+    },
+    {
+      "id": "newvarities",
+      "name": "NEW VARITIES",
+      "icon": "sparkler"
+    }
+  ],
+  "products": [
+    {
+      "code": "RUBY-1",
+      "cat": "onesoundcrackers",
+      "name": "4 \" Gold Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 150,
+      "price": 30
+    },
+    {
+      "code": "RUBY-2",
+      "cat": "onesoundcrackers",
+      "name": "4 \" Deluxe Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 135,
+      "price": 27
+    },
+    {
+      "code": "RUBY-3",
+      "cat": "onesoundcrackers",
+      "name": "5 \" Deluxe Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 230,
+      "price": 46
+    },
+    {
+      "code": "RUBY-4",
+      "cat": "onesoundcrackers",
+      "name": "6 \" Deluxe Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-5",
+      "cat": "onesoundcrackers",
+      "name": "4 \" Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 100,
+      "price": 20
+    },
+    {
+      "code": "RUBY-6",
+      "cat": "onesoundcrackers",
+      "name": "3 1/2 \" Lakshmi",
+      "desc": "1 Pkt",
+      "mrp": 75,
+      "price": 15
+    },
+    {
+      "code": "RUBY-7",
+      "cat": "onesoundcrackers",
+      "name": "2 3/4 \" Bird",
+      "desc": "1 Pkt",
+      "mrp": 40,
+      "price": 8
+    },
+    {
+      "code": "RUBY-8",
+      "cat": "onesoundcrackers",
+      "name": "2 Sound Crackers",
+      "desc": "1 Pkt",
+      "mrp": 150,
+      "price": 30
+    },
+    {
+      "code": "RUBY-9",
+      "cat": "onesoundcrackers",
+      "name": "OLAI VEDI (50 Pcs)",
+      "desc": "Box",
+      "mrp": 1250,
+      "price": 250
+    },
+    {
+      "code": "RUBY-10",
+      "cat": "bijilicrackers",
+      "name": "Red Bijili",
+      "desc": "1 Bag",
+      "mrp": 175,
+      "price": 35
+    },
+    {
+      "code": "RUBY-11",
+      "cat": "bijilicrackers",
+      "name": "Striped Bijili",
+      "desc": "1 Bag",
+      "mrp": 200,
+      "price": 40
+    },
+    {
+      "code": "RUBY-12",
+      "cat": "groundchakkars",
+      "name": "Ground Chakkar Big 10 Pcs",
+      "desc": "1 Box",
+      "mrp": 160,
+      "price": 32
+    },
+    {
+      "code": "RUBY-13",
+      "cat": "groundchakkars",
+      "name": "Ground Chakkar Ashoka",
+      "desc": "1 Box",
+      "mrp": 225,
+      "price": 45
+    },
+    {
+      "code": "RUBY-14",
+      "cat": "groundchakkars",
+      "name": "Ground Chakkar Special",
+      "desc": "1 Box",
+      "mrp": 350,
+      "price": 70
+    },
+    {
+      "code": "RUBY-15",
+      "cat": "groundchakkars",
+      "name": "Ground Chakkar Deluxe",
+      "desc": "1 Box",
+      "mrp": 550,
+      "price": 110
+    },
+    {
+      "code": "RUBY-16",
+      "cat": "wheels",
+      "name": "Disco Wheel (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-17",
+      "cat": "wheels",
+      "name": "4 x 4 Wheel (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 550,
+      "price": 110
+    },
+    {
+      "code": "RUBY-18",
+      "cat": "wheels",
+      "name": "Titanic Wheel (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 550,
+      "price": 110
+    },
+    {
+      "code": "RUBY-19",
+      "cat": "flowerpots",
+      "name": "Flower Pots Small",
+      "desc": "1 Box",
+      "mrp": 225,
+      "price": 45
+    },
+    {
+      "code": "RUBY-20",
+      "cat": "flowerpots",
+      "name": "Flower Pots Big",
+      "desc": "1 Box",
+      "mrp": 325,
+      "price": 65
+    },
+    {
+      "code": "RUBY-21",
+      "cat": "flowerpots",
+      "name": "Flower Pots Special",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-22",
+      "cat": "flowerpots",
+      "name": "Flower Pots Asoka",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-23",
+      "cat": "flowerpots",
+      "name": "Colour Kotti Gaint",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-24",
+      "cat": "flowerpots",
+      "name": "Colour Kotti",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-25",
+      "cat": "flowerpots",
+      "name": "Mega Colour Koti",
+      "desc": "1 Box",
+      "mrp": 2000,
+      "price": 400
+    },
+    {
+      "code": "RUBY-26",
+      "cat": "flowerpots",
+      "name": "Tri Colour Fountain (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1500,
+      "price": 300
+    },
+    {
+      "code": "RUBY-27",
+      "cat": "flowerpots",
+      "name": "Ganga Jamuna (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 275,
+      "price": 55
+    },
+    {
+      "code": "RUBY-28",
+      "cat": "twinklingstar",
+      "name": "1 1/2' Twinkling Star",
+      "desc": "1 Box",
+      "mrp": 100,
+      "price": 20
+    },
+    {
+      "code": "RUBY-29",
+      "cat": "twinklingstar",
+      "name": "4' Twinkling Star",
+      "desc": "1 Box",
+      "mrp": 300,
+      "price": 60
+    },
+    {
+      "code": "RUBY-30",
+      "cat": "pencils",
+      "name": "7''  Pencil (10 Pcs)",
+      "desc": "1 Box",
+      "mrp": 135,
+      "price": 27
+    },
+    {
+      "code": "RUBY-31",
+      "cat": "pencils",
+      "name": "Ultra Pencil (3 Pcs)",
+      "desc": "1 Box",
+      "mrp": 350,
+      "price": 70
+    },
+    {
+      "code": "RUBY-32",
+      "cat": "kidsvarites",
+      "name": "Assorted Cartoon",
+      "desc": "1 Box",
+      "mrp": 60,
+      "price": 12
+    },
+    {
+      "code": "RUBY-33",
+      "cat": "kidsvarites",
+      "name": "Electric Stone",
+      "desc": "1 Box",
+      "mrp": 75,
+      "price": 15
+    },
+    {
+      "code": "RUBY-34",
+      "cat": "kidsvarites",
+      "name": "Colour Stone",
+      "desc": "1 Box",
+      "mrp": 85,
+      "price": 17
+    },
+    {
+      "code": "RUBY-35",
+      "cat": "kidsvarites",
+      "name": "Magic Pops",
+      "desc": "1 Box",
+      "mrp": 75,
+      "price": 15
+    },
+    {
+      "code": "RUBY-36",
+      "cat": "kidsvarites",
+      "name": "Kit Kat",
+      "desc": "1 Box",
+      "mrp": 125,
+      "price": 25
+    },
+    {
+      "code": "RUBY-37",
+      "cat": "atombombs",
+      "name": "Bullet Bomb",
+      "desc": "1 Box",
+      "mrp": 140,
+      "price": 28
+    },
+    {
+      "code": "RUBY-38",
+      "cat": "atombombs",
+      "name": "Meha Bullet",
+      "desc": "1 Box",
+      "mrp": 200,
+      "price": 40
+    },
+    {
+      "code": "RUBY-39",
+      "cat": "atombombs",
+      "name": "Atom Bomb Small",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-40",
+      "cat": "atombombs",
+      "name": "Hydro Bomb",
+      "desc": "1 Box",
+      "mrp": 325,
+      "price": 65
+    },
+    {
+      "code": "RUBY-41",
+      "cat": "atombombs",
+      "name": "Classic Bomb",
+      "desc": "1 Box",
+      "mrp": 450,
+      "price": 90
+    },
+    {
+      "code": "RUBY-42",
+      "cat": "atombombs",
+      "name": "Agni Bomb",
+      "desc": "1 Box",
+      "mrp": 750,
+      "price": 150
+    },
+    {
+      "code": "RUBY-43",
+      "cat": "atombombs",
+      "name": "Digital Bomb",
+      "desc": "1 Box",
+      "mrp": 900,
+      "price": 180
+    },
+    {
+      "code": "RUBY-44",
+      "cat": "atombombs",
+      "name": "Paper Bomb Small",
+      "desc": "1 Box",
+      "mrp": 200,
+      "price": 40
+    },
+    {
+      "code": "RUBY-45",
+      "cat": "atombombs",
+      "name": "Paper Bomb Big",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-46",
+      "cat": "atombombs",
+      "name": "Paper Bomb Mega",
+      "desc": "1 Box",
+      "mrp": 750,
+      "price": 150
+    },
+    {
+      "code": "RUBY-47",
+      "cat": "rockets",
+      "name": "Baby Rocket",
+      "desc": "1 Box",
+      "mrp": 175,
+      "price": 35
+    },
+    {
+      "code": "RUBY-48",
+      "cat": "rockets",
+      "name": "Rocket Bomb",
+      "desc": "1 Box",
+      "mrp": 275,
+      "price": 55
+    },
+    {
+      "code": "RUBY-49",
+      "cat": "rockets",
+      "name": "2 Sound Rocket",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 100
+    },
+    {
+      "code": "RUBY-50",
+      "cat": "rockets",
+      "name": "3 Sound Rocket",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-51",
+      "cat": "rockets",
+      "name": "Lunik Rocket",
+      "desc": "1 Box",
+      "mrp": 475,
+      "price": 95
+    },
+    {
+      "code": "RUBY-52",
+      "cat": "rockets",
+      "name": "Whishling Rocket",
+      "desc": "1 Box",
+      "mrp": 700,
+      "price": 140
+    },
+    {
+      "code": "RUBY-53",
+      "cat": "fountains",
+      "name": "Ashrafi Shower (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 375,
+      "price": 75
+    },
+    {
+      "code": "RUBY-54",
+      "cat": "fountains",
+      "name": "Colour Fountain (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 100
+    },
+    {
+      "code": "RUBY-55",
+      "cat": "fountains",
+      "name": "Music Fountain (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-56",
+      "cat": "fountains",
+      "name": "Amazing Mini (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-57",
+      "cat": "fountains",
+      "name": "Amazing Bada (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 850,
+      "price": 170
+    },
+    {
+      "code": "RUBY-58",
+      "cat": "fountains",
+      "name": "Photo Flash (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-59",
+      "cat": "fountains",
+      "name": "Selfie Stick (3 Pcs )",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-60",
+      "cat": "fountains",
+      "name": "Mini Siren (5Pcs)",
+      "desc": "1 Box",
+      "mrp": 700,
+      "price": 140
+    },
+    {
+      "code": "RUBY-61",
+      "cat": "fountains",
+      "name": "Meha Siren (3 pcs)",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-62",
+      "cat": "fountains",
+      "name": "Butterfly (10 Pcs)",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-63",
+      "cat": "fountains",
+      "name": "Pambaram (10 pcs)",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 100
+    },
+    {
+      "code": "RUBY-64",
+      "cat": "fountains",
+      "name": "Peacock Feather(5 pcs)",
+      "desc": "1 Box",
+      "mrp": 375,
+      "price": 75
+    },
+    {
+      "code": "RUBY-65",
+      "cat": "fountains",
+      "name": "Peacock Wonder",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-66",
+      "cat": "fountains",
+      "name": "Peacock Crackling",
+      "desc": "1 Box",
+      "mrp": 650,
+      "price": 130
+    },
+    {
+      "code": "RUBY-67",
+      "cat": "fountains",
+      "name": "Bada Peacock",
+      "desc": "1 Box",
+      "mrp": 1600,
+      "price": 320
+    },
+    {
+      "code": "RUBY-68",
+      "cat": "fountains",
+      "name": "Colour Smoke (3 Pcs)",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-69",
+      "cat": "fountains",
+      "name": "Money Bank (2 Pcs) Currency",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-70",
+      "cat": "fountains",
+      "name": "Touch Me Falls (Frozen)",
+      "desc": "1 Box",
+      "mrp": 650,
+      "price": 130
+    },
+    {
+      "code": "RUBY-71",
+      "cat": "fountains",
+      "name": "Tin Fountain",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-72",
+      "cat": "fountains",
+      "name": "Galaxy Fountain",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 100
+    },
+    {
+      "code": "RUBY-73",
+      "cat": "fountains",
+      "name": "Wanted Gun (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 550,
+      "price": 110
+    },
+    {
+      "code": "RUBY-74",
+      "cat": "fountains",
+      "name": "Lolly Pop (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-75",
+      "cat": "fountains",
+      "name": "Crackers Jack (3 Pcs ) Crackling",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-76",
+      "cat": "fancypots",
+      "name": "Mini Pearl (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-77",
+      "cat": "fancypots",
+      "name": "Tim Tim (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-78",
+      "cat": "fancypots",
+      "name": "Ashrafi Pots (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1650,
+      "price": 330
+    },
+    {
+      "code": "RUBY-79",
+      "cat": "fancypots",
+      "name": "2 in 1 Pots (10 Pcs)",
+      "desc": "1 Box",
+      "mrp": 2100,
+      "price": 420
+    },
+    {
+      "code": "RUBY-80",
+      "cat": "fancypots",
+      "name": "Deluxe Pots (4 Pcs)",
+      "desc": "1 Box",
+      "mrp": 2750,
+      "price": 550
+    },
+    {
+      "code": "RUBY-81",
+      "cat": "fancypots",
+      "name": "Gift Pack (4 Pcs)",
+      "desc": "1 Box",
+      "mrp": 3400,
+      "price": 680
+    },
+    {
+      "code": "RUBY-82",
+      "cat": "aerialfancy",
+      "name": "7 Shots (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 425,
+      "price": 85
+    },
+    {
+      "code": "RUBY-83",
+      "cat": "aerialfancy",
+      "name": "Sky shot Crackling (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-84",
+      "cat": "aerialfancy",
+      "name": "Fanta Collection ( 5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-85",
+      "cat": "aerialfancy",
+      "name": "Drone (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-86",
+      "cat": "aerialfancy",
+      "name": "Helicopter (5 Pcs)",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 100
+    },
+    {
+      "code": "RUBY-87",
+      "cat": "aerialfancy",
+      "name": "Sky Lantern (Parachute)",
+      "desc": "1 Box",
+      "mrp": 175,
+      "price": 35
+    },
+    {
+      "code": "RUBY-88",
+      "cat": "aerialcommet",
+      "name": "Chotta Fancy",
+      "desc": "1 Box",
+      "mrp": 250,
+      "price": 50
+    },
+    {
+      "code": "RUBY-89",
+      "cat": "aerialcommet",
+      "name": "2 \" Fancy",
+      "desc": "1 Box",
+      "mrp": 550,
+      "price": 110
+    },
+    {
+      "code": "RUBY-90",
+      "cat": "aerialcommet",
+      "name": "2\" Fancy (3 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1400,
+      "price": 280
+    },
+    {
+      "code": "RUBY-91",
+      "cat": "aerialcommet",
+      "name": "2 3/4\" Fancy",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-92",
+      "cat": "aerialcommet",
+      "name": "3\" Fancy",
+      "desc": "1 Box",
+      "mrp": 1100,
+      "price": 220
+    },
+    {
+      "code": "RUBY-93",
+      "cat": "aerialcommet",
+      "name": "3 1/2\" Fancy",
+      "desc": "1 Box",
+      "mrp": 1400,
+      "price": 280
+    },
+    {
+      "code": "RUBY-94",
+      "cat": "aerialcommet",
+      "name": "3 1/2 \" Fancy (2 Pcs)",
+      "desc": "1 Box",
+      "mrp": 3000,
+      "price": 600
+    },
+    {
+      "code": "RUBY-95",
+      "cat": "aerialcommet",
+      "name": "3 1/2\" Fancy (2 Ball)",
+      "desc": "1 Box",
+      "mrp": 1800,
+      "price": 360
+    },
+    {
+      "code": "RUBY-96",
+      "cat": "aerialcommet",
+      "name": "4\" Fancy (3 Ball)",
+      "desc": "1 Box",
+      "mrp": 2000,
+      "price": 400
+    },
+    {
+      "code": "RUBY-97",
+      "cat": "aerialcommet",
+      "name": "3 1/2\" Fancy (7 Step)",
+      "desc": "1 Box",
+      "mrp": 1800,
+      "price": 360
+    },
+    {
+      "code": "RUBY-98",
+      "cat": "aerialcommet",
+      "name": "4\" Fancy",
+      "desc": "1 Box",
+      "mrp": 2000,
+      "price": 400
+    },
+    {
+      "code": "RUBY-99",
+      "cat": "aerialcommet",
+      "name": "4.5\" Fancy (2 Pcs)",
+      "desc": "1 Box",
+      "mrp": 3500,
+      "price": 700
+    },
+    {
+      "code": "RUBY-100",
+      "cat": "aerialcommet",
+      "name": "5\" Fancy",
+      "desc": "1 Box",
+      "mrp": 2500,
+      "price": 500
+    },
+    {
+      "code": "RUBY-101",
+      "cat": "aerialcommet",
+      "name": "6\" Fancy",
+      "desc": "1 Box",
+      "mrp": 3400,
+      "price": 680
+    },
+    {
+      "code": "RUBY-102",
+      "cat": "aerialsetout",
+      "name": "3 1/2\" Set Out (20 Shot)",
+      "desc": "1 Box",
+      "mrp": 22500,
+      "price": 4500
+    },
+    {
+      "code": "RUBY-103",
+      "cat": "repeatingfunction",
+      "name": "12 Star Bomb Square",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-104",
+      "cat": "repeatingfunction",
+      "name": "12 Star Bomb Deluxe",
+      "desc": "1 Box",
+      "mrp": 650,
+      "price": 130
+    },
+    {
+      "code": "RUBY-105",
+      "cat": "repeatingfunction",
+      "name": "12 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 1050,
+      "price": 210
+    },
+    {
+      "code": "RUBY-106",
+      "cat": "repeatingfunction",
+      "name": "15 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 1400,
+      "price": 280
+    },
+    {
+      "code": "RUBY-107",
+      "cat": "repeatingfunction",
+      "name": "30 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 2250,
+      "price": 450
+    },
+    {
+      "code": "RUBY-108",
+      "cat": "repeatingfunction",
+      "name": "60 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 4500,
+      "price": 900
+    },
+    {
+      "code": "RUBY-109",
+      "cat": "repeatingfunction",
+      "name": "120 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 9000,
+      "price": 1800
+    },
+    {
+      "code": "RUBY-110",
+      "cat": "repeatingfunction",
+      "name": "240 Shots Multi Colour",
+      "desc": "1 Box",
+      "mrp": 18000,
+      "price": 3600
+    },
+    {
+      "code": "RUBY-111",
+      "cat": "repeatingfunction",
+      "name": "30 Shot Crackling",
+      "desc": "1 Box",
+      "mrp": 2750,
+      "price": 550
+    },
+    {
+      "code": "RUBY-112",
+      "cat": "repeatingfunction",
+      "name": "60 Shot Crackling",
+      "desc": "1 Box",
+      "mrp": 5500,
+      "price": 1100
+    },
+    {
+      "code": "RUBY-113",
+      "cat": "repeatingfunction",
+      "name": "100 Shot Crackling",
+      "desc": "1 Box",
+      "mrp": 9000,
+      "price": 1800
+    },
+    {
+      "code": "RUBY-114",
+      "cat": "repeatingfunction",
+      "name": "10 x 10 Sky Dhamma (Multicolour)",
+      "desc": "1 Box",
+      "mrp": 16000,
+      "price": 3200
+    },
+    {
+      "code": "RUBY-115",
+      "cat": "repeatingfunction",
+      "name": "10 x 10 IPL Winner (Multicolour)",
+      "desc": "1 Box",
+      "mrp": 13500,
+      "price": 2700
+    },
+    {
+      "code": "RUBY-116",
+      "cat": "repeatingfunction",
+      "name": "10 x 10 Dhoni Shot (Rider Crcackling)",
+      "desc": "1 Box",
+      "mrp": 12500,
+      "price": 2500
+    },
+    {
+      "code": "RUBY-117",
+      "cat": "cracklingcrackers",
+      "name": "Jegazal Crackling Chorsa (30 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1800,
+      "price": 360
+    },
+    {
+      "code": "RUBY-118",
+      "cat": "cracklingcrackers",
+      "name": "1000 Crackling (10 Pcs)",
+      "desc": "1 Box",
+      "mrp": 1100,
+      "price": 220
+    },
+    {
+      "code": "RUBY-119",
+      "cat": "cracklingcrackers",
+      "name": "Magic whip Digital Wala",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-120",
+      "cat": "sparklers",
+      "name": "7 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 40,
+      "price": 8
+    },
+    {
+      "code": "RUBY-121",
+      "cat": "sparklers",
+      "name": "7 Cm Colour Sparklers",
+      "desc": "1 Box",
+      "mrp": 45,
+      "price": 9
+    },
+    {
+      "code": "RUBY-122",
+      "cat": "sparklers",
+      "name": "7 Cm Green Sparklers",
+      "desc": "1 Box",
+      "mrp": 50,
+      "price": 10
+    },
+    {
+      "code": "RUBY-123",
+      "cat": "sparklers",
+      "name": "7cm Red Sparklers",
+      "desc": "1 Box",
+      "mrp": 55,
+      "price": 11
+    },
+    {
+      "code": "RUBY-124",
+      "cat": "sparklers",
+      "name": "10 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 75,
+      "price": 15
+    },
+    {
+      "code": "RUBY-125",
+      "cat": "sparklers",
+      "name": "10 Cm Colour Sparklers",
+      "desc": "1 Box",
+      "mrp": 85,
+      "price": 17
+    },
+    {
+      "code": "RUBY-126",
+      "cat": "sparklers",
+      "name": "10 Cm Green Sparklers",
+      "desc": "1 Box",
+      "mrp": 100,
+      "price": 20
+    },
+    {
+      "code": "RUBY-127",
+      "cat": "sparklers",
+      "name": "10 Cm Red Sparklers",
+      "desc": "1 Box",
+      "mrp": 110,
+      "price": 22
+    },
+    {
+      "code": "RUBY-128",
+      "cat": "sparklers",
+      "name": "12 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 115,
+      "price": 23
+    },
+    {
+      "code": "RUBY-129",
+      "cat": "sparklers",
+      "name": "12 Cm Colour Sparklers",
+      "desc": "1 Box",
+      "mrp": 125,
+      "price": 25
+    },
+    {
+      "code": "RUBY-130",
+      "cat": "sparklers",
+      "name": "12 Cm Green Sparklers",
+      "desc": "1 Box",
+      "mrp": 135,
+      "price": 27
+    },
+    {
+      "code": "RUBY-131",
+      "cat": "sparklers",
+      "name": "12 Cm Red Sparklers",
+      "desc": "1 Box",
+      "mrp": 150,
+      "price": 30
+    },
+    {
+      "code": "RUBY-132",
+      "cat": "sparklers",
+      "name": "15 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 175,
+      "price": 35
+    },
+    {
+      "code": "RUBY-133",
+      "cat": "sparklers",
+      "name": "15 Cm Color Sparklers",
+      "desc": "1 Box",
+      "mrp": 185,
+      "price": 37
+    },
+    {
+      "code": "RUBY-134",
+      "cat": "sparklers",
+      "name": "15 Cm Green Sparklers",
+      "desc": "1 Box",
+      "mrp": 200,
+      "price": 40
+    },
+    {
+      "code": "RUBY-135",
+      "cat": "sparklers",
+      "name": "15 Cm Red Sparklers",
+      "desc": "1 Box",
+      "mrp": 225,
+      "price": 45
+    },
+    {
+      "code": "RUBY-136",
+      "cat": "sparklers",
+      "name": "30 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 175,
+      "price": 35
+    },
+    {
+      "code": "RUBY-137",
+      "cat": "sparklers",
+      "name": "30cm Color Sparklers",
+      "desc": "1 Box",
+      "mrp": 185,
+      "price": 37
+    },
+    {
+      "code": "RUBY-138",
+      "cat": "sparklers",
+      "name": "30 Cm Green Sparklers",
+      "desc": "1 Box",
+      "mrp": 200,
+      "price": 40
+    },
+    {
+      "code": "RUBY-139",
+      "cat": "sparklers",
+      "name": "30 Cm Red Sparklers",
+      "desc": "1 Box",
+      "mrp": 225,
+      "price": 45
+    },
+    {
+      "code": "RUBY-140",
+      "cat": "sparklers",
+      "name": "50 Cm Electric Sparklers",
+      "desc": "1 Box",
+      "mrp": 750,
+      "price": 150
+    },
+    {
+      "code": "RUBY-141",
+      "cat": "sparklers",
+      "name": "50cm Color Sparklers",
+      "desc": "1 Box",
+      "mrp": 850,
+      "price": 170
+    },
+    {
+      "code": "RUBY-142",
+      "cat": "sparklers",
+      "name": "Rotating sparklers",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 160
+    },
+    {
+      "code": "RUBY-143",
+      "cat": "colourmatches",
+      "name": "Deluxe colour match",
+      "desc": "1 Box",
+      "mrp": 350,
+      "price": 70
+    },
+    {
+      "code": "RUBY-144",
+      "cat": "colourmatches",
+      "name": "Super Deluxe colour match",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-145",
+      "cat": "colourmatches",
+      "name": "Lamba colour match",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-146",
+      "cat": "colourmatches",
+      "name": "Maxx colour match",
+      "desc": "1 Box",
+      "mrp": 1000,
+      "price": 200
+    },
+    {
+      "code": "RUBY-147",
+      "cat": "colourmatches",
+      "name": "Meha Match",
+      "desc": "1 Box",
+      "mrp": 1050,
+      "price": 210
+    },
+    {
+      "code": "RUBY-148",
+      "cat": "colourmatches",
+      "name": "Lap Top Match",
+      "desc": "1 Box",
+      "mrp": 1100,
+      "price": 220
+    },
+    {
+      "code": "RUBY-149",
+      "cat": "rollcaps",
+      "name": "Serphant Egg Big (10",
+      "desc": "1 Box",
+      "mrp": 100,
+      "price": 20
+    },
+    {
+      "code": "RUBY-150",
+      "cat": "rollcaps",
+      "name": "Gobra Serphants",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-151",
+      "cat": "rollcaps",
+      "name": "Roll Cap",
+      "desc": "1 Box",
+      "mrp": 300,
+      "price": 60
+    },
+    {
+      "code": "RUBY-152",
+      "cat": "rollcaps",
+      "name": "Ring Cap with Gun",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 120
+    },
+    {
+      "code": "RUBY-153",
+      "cat": "rollcaps",
+      "name": "Ring Cap Pouch (10 Pcs)",
+      "desc": "Pcs",
+      "mrp": 400,
+      "price": 80
+    },
+    {
+      "code": "RUBY-154",
+      "cat": "giftboxesnetrate",
+      "name": "Child Pack (16 Items)",
+      "desc": "1 Box",
+      "mrp": 300,
+      "price": 300
+    },
+    {
+      "code": "RUBY-155",
+      "cat": "giftboxesnetrate",
+      "name": "Kids Pack (20 Items)",
+      "desc": "1 Box",
+      "mrp": 400,
+      "price": 400
+    },
+    {
+      "code": "RUBY-156",
+      "cat": "giftboxesnetrate",
+      "name": "Angel Pack (25 items)",
+      "desc": "1 Box",
+      "mrp": 500,
+      "price": 500
+    },
+    {
+      "code": "RUBY-157",
+      "cat": "giftboxesnetrate",
+      "name": "Ishwaraya Pack (30 Items)",
+      "desc": "1 Box",
+      "mrp": 600,
+      "price": 600
+    },
+    {
+      "code": "RUBY-158",
+      "cat": "giftboxesnetrate",
+      "name": "Family Pack ( 35 items)",
+      "desc": "1 Box",
+      "mrp": 700,
+      "price": 700
+    },
+    {
+      "code": "RUBY-159",
+      "cat": "giftboxesnetrate",
+      "name": "Meha Pack (40 Items)",
+      "desc": "1 Box",
+      "mrp": 800,
+      "price": 800
+    },
+    {
+      "code": "RUBY-160",
+      "cat": "giftboxesnetrate",
+      "name": "Festival Pack (50 Items)",
+      "desc": "1 Box",
+      "mrp": 900,
+      "price": 900
+    },
+    {
+      "code": "RUBY-161",
+      "cat": "newvarities",
+      "name": "KADAYUTHAM",
+      "desc": "1",
+      "mrp": 900,
+      "price": 180
+    }
+  ]
+}

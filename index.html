@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vikram Traders — Animated Sivakasi Fireworks</title>
+  <meta name="description" content="Vikram Traders, Sivakasi — genuine fireworks at direct factory prices.">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <canvas id="fireworks-canvas"></canvas>
+
+  <header>
+    <a href="#" class="logo">Vikram Traders</a>
+    <ul class="nav-links">
+      <li><a href="#hero">Home</a></li>
+      <li><a href="#gift-boxes">Gift Boxes</a></li>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="#payments">Payments</a></li>
+      <li><a href="#location">Location</a></li>
+    </ul>
+    <a href="https://mybillbook.in/store/sark_fire_works" target="_blank" class="btn-primary">Order Now</a>
+  </header>
+
+  <section class="hero" id="hero">
+    <video autoplay muted loop playsinline class="hero-video-bg">
+      <source src="images/bg-video.mp4" type="video/mp4">
+    </video>
+    <div class="hero-text-bg" id="hero-bg-text">DIWALI SPECIAL</div>
+    <div class="hero-content">
+      <h1 class="text-hero">Light up your vibe with Vikram Traders</h1>
+      <p class="text-large serif">100% Genuine Sivakasi Crackers at Factory Prices</p>
+    </div>
+  </section>
+
+  <!-- Image Slider -->
+  <section class="image-slider-section">
+    <h2 class="text-large serif">Our Full Range</h2>
+    <div class="image-slider-track">
+      <!-- Original Set -->
+      <figure class="slider-item"><img src="images/aerial-commet.jpg" alt="Aerial Commet">
+        <figcaption class="slider-item-name">Aerial Commet</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/aerial-set-out.jpg" alt="Aerial Set Out">
+        <figcaption class="slider-item-name">Aerial Set Out</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/ariel-shot.jpg" alt="Ariel Shot">
+        <figcaption class="slider-item-name">Ariel Shot</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/atom-bomb.jpg" alt="Atom Bomb">
+        <figcaption class="slider-item-name">Atom Bomb</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/bijli.jpg" alt="Bijli">
+        <figcaption class="slider-item-name">Bijli</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/colour-fountain.jpg" alt="Colour Fountain">
+        <figcaption class="slider-item-name">Colour Fountain</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/colour-matches.jpeg" alt="Colour Matches">
+        <figcaption class="slider-item-name">Colour Matches</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/crackling.jpg" alt="Crackling">
+        <figcaption class="slider-item-name">Crackling</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/fancy-pots.jpg" alt="Fancy Pots">
+        <figcaption class="slider-item-name">Fancy Pots</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/flower-pot.jpg" alt="Flower Pot">
+        <figcaption class="slider-item-name">Flower Pot</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/ground-chakkar.jpg" alt="Ground Chakkar">
+        <figcaption class="slider-item-name">Ground Chakkar</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/kids-variety.jpg" alt="Kids Variety">
+        <figcaption class="slider-item-name">Kids Variety</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/oe-sound-crackers.jpg" alt="OE Sound Crackers">
+        <figcaption class="slider-item-name">OE Sound Crackers</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/pencils.jpg" alt="Pencils">
+        <figcaption class="slider-item-name">Pencils</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/roll-caps.jpg" alt="Roll Caps">
+        <figcaption class="slider-item-name">Roll Caps</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/sky-rocket.jpg" alt="Sky Rocket">
+        <figcaption class="slider-item-name">Sky Rocket</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/sparklers.jpg" alt="Sparklers">
+        <figcaption class="slider-item-name">Sparklers</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/twinkling-star.jpg" alt="Twinkling Star">
+        <figcaption class="slider-item-name">Twinkling Star</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/wheels.jpg" alt="Wheels">
+        <figcaption class="slider-item-name">Wheels</figcaption>
+      </figure>
+      <!-- Duplicate Set for infinite loop -->
+      <figure class="slider-item"><img src="images/aerial-commet.jpg" alt="Aerial Commet">
+        <figcaption class="slider-item-name">Aerial Commet</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/aerial-set-out.jpg" alt="Aerial Set Out">
+        <figcaption class="slider-item-name">Aerial Set Out</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/ariel-shot.jpg" alt="Ariel Shot">
+        <figcaption class="slider-item-name">Ariel Shot</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/atom-bomb.jpg" alt="Atom Bomb">
+        <figcaption class="slider-item-name">Atom Bomb</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/bijli.jpg" alt="Bijli">
+        <figcaption class="slider-item-name">Bijli</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/colour-fountain.jpg" alt="Colour Fountain">
+        <figcaption class="slider-item-name">Colour Fountain</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/colour-matches.jpeg" alt="Colour Matches">
+        <figcaption class="slider-item-name">Colour Matches</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/crackling.jpg" alt="Crackling">
+        <figcaption class="slider-item-name">Crackling</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/fancy-pots.jpg" alt="Fancy Pots">
+        <figcaption class="slider-item-name">Fancy Pots</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/flower-pot.jpg" alt="Flower Pot">
+        <figcaption class="slider-item-name">Flower Pot</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/ground-chakkar.jpg" alt="Ground Chakkar">
+        <figcaption class="slider-item-name">Ground Chakkar</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/kids-variety.jpg" alt="Kids Variety">
+        <figcaption class="slider-item-name">Kids Variety</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/oe-sound-crackers.jpg" alt="OE Sound Crackers">
+        <figcaption class="slider-item-name">OE Sound Crackers</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/pencils.jpg" alt="Pencils">
+        <figcaption class="slider-item-name">Pencils</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/roll-caps.jpg" alt="Roll Caps">
+        <figcaption class="slider-item-name">Roll Caps</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/sky-rocket.jpg" alt="Sky Rocket">
+        <figcaption class="slider-item-name">Sky Rocket</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/sparklers.jpg" alt="Sparklers">
+        <figcaption class="slider-item-name">Sparklers</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/twinkling-star.jpg" alt="Twinkling Star">
+        <figcaption class="slider-item-name">Twinkling Star</figcaption>
+      </figure>
+      <figure class="slider-item"><img src="images/wheels.jpg" alt="Wheels">
+        <figcaption class="slider-item-name">Wheels</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- Horizontal Scroll Theme Switcher -->
+  <section class="slider-container" id="gift-boxes">
+    <div class="slider-pinned">
+      <div class="slider-track" id="slider-track">
+
+        <!-- Panel 1 -->
+        <div class="slide-panel" data-color="#E61E4D" data-text-bg="MEGA BOX">
+          <div class="slide-content">
+            <h2 class="text-huge slide-title">Mega Box</h2>
+            <p class="slide-desc">The ultimate collection for a grand celebration. Packed with 50+ premium varieties
+              including aerial shells, fancy fountains, and loud ground chakkars.</p>
+            <h3 class="text-large serif">₹4,000</h3>
+          </div>
+          <div class="slide-image-container">
+            <img src="images/whatsapp-image-2026-08-12-at-3.59.13-pm.jpeg" alt="Mega Box" class="slide-img">
+          </div>
+        </div>
+
+        <!-- Panel 2 -->
+        <div class="slide-panel" data-color="#4F46E5" data-text-bg="JUMBO BOX">
+          <div class="slide-content">
+            <h2 class="text-huge slide-title">Jumbo Box</h2>
+            <p class="slide-desc">A perfect balance of sound and light. Designed for families who want a complete
+              festive experience without compromise.</p>
+            <h3 class="text-large serif">₹4,500</h3>
+          </div>
+          <div class="slide-image-container">
+            <img src="images/whatsapp-image-2026-08-12-at-3.59.12-pm.jpeg" alt="Jumbo Box" class="slide-img">
+          </div>
+        </div>
+
+        <!-- Panel 3 -->
+        <div class="slide-panel" data-color="#059669" data-text-bg="PLATINUM BOX">
+          <div class="slide-content">
+            <h2 class="text-huge slide-title">Platinum Box</h2>
+            <p class="slide-desc">Our most luxurious assortment. Features double-layered color changing fountains and
+              multi-shot aerial cakes for a spectacular show.</p>
+            <h3 class="text-large serif">₹5,000</h3>
+          </div>
+          <div class="slide-image-container">
+            <img src="images/whatsapp-image-2026-08-12-at-3.59.12-pm-1.jpeg" alt="Platinum Box" class="slide-img">
+          </div>
+        </div>
+
+        <!-- Panel 4 -->
+        <div class="slide-panel" data-color="#D97706" data-text-bg="WHOLESALE">
+          <div class="slide-content">
+            <h2 class="text-huge slide-title">Wholesale</h2>
+            <p class="slide-desc">Buying in bulk? Get up to 80% off on all individual items when you order above our
+              minimum threshold. Safe, secure, and fast delivery.</p>
+            <a href="#" class="btn-primary" style="display:inline-block; margin-top:20px;">Download Price List</a>
+          </div>
+          <div class="slide-image-container">
+            <!-- Reuse an image or general fireworks image -->
+            <img src="images/sky-rocket.jpg" alt="Wholesale Rockets" class="slide-img" style="border-radius:20px;">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Animated Marquee -->
+  <div class="marquee-wrapper">
+    <div class="marquee-content">
+      <span>100% Genuine Sivakasi</span>
+      <span>•</span>
+      <span>Up to 80% Factory Discount</span>
+      <span>•</span>
+      <span>High Safety & Quality</span>
+      <span>•</span>
+      <span>Secure On-Time Shipping</span>
+      <span>•</span>
+      <span>100% Genuine Sivakasi</span>
+      <span>•</span>
+      <span>Up to 80% Factory Discount</span>
+    </div>
+  </div>
+
+  <!-- Features Grid -->
+  <section class="features-section" id="features">
+    <div class="features-grid">
+      <div class="feature-card gsap-fade-up">
+        <div class="feature-icon">✨</div>
+        <h3 class="feature-title">Direct from Factory</h3>
+        <p class="feature-desc">Sourced directly from licensed Sivakasi manufacturers. No middlemen, just pure savings
+          passed directly to you.</p>
+      </div>
+      <div class="feature-card gsap-fade-up">
+        <div class="feature-icon">🛡️</div>
+        <h3 class="feature-title">Tested for Safety</h3>
+        <p class="feature-desc">Every batch is quality-checked and thoroughly tested before it leaves the factory floor
+          to ensure your safety.</p>
+      </div>
+      <div class="feature-card gsap-fade-up">
+        <div class="feature-icon">🚚</div>
+        <h3 class="feature-title">Secure Delivery</h3>
+        <p class="feature-desc">Careful, compliant packaging with tracked, on-time delivery right to your doorstep
+          anywhere in India.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="faq-section" id="faq">
+    <h2 class="text-large faq-title serif">Frequently Asked Questions</h2>
+
+    <div class="faq-item gsap-fade-up">
+      <div class="faq-question">
+        What is the minimum order value?
+        <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-answer">
+        Our minimum order value is ₹3,000. This ensures we can provide you with the best wholesale rates directly from
+        Sivakasi while covering secure packaging costs.
+      </div>
+    </div>
+
+    <div class="faq-item gsap-fade-up">
+      <div class="faq-question">
+        How do I make a payment?
+        <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-answer">
+        We accept UPI (GPay, PhonePe, Paytm) and direct Bank Transfers (NEFT/RTGS). After placing your order, send a
+        screenshot of your payment on WhatsApp to confirm.
+      </div>
+    </div>
+
+    <div class="faq-item gsap-fade-up">
+      <div class="faq-question">
+        How long does delivery take?
+        <span class="faq-icon">+</span>
+      </div>
+      <div class="faq-answer">
+        Orders are typically dispatched within 24 hours. Depending on your location, delivery takes between 3 to 7
+        working days via our specialized transport partners.
+      </div>
+    </div>
+  </section>
+
+  <!-- Secure Payments Section -->
+  <section class="payment-section-custom" id="payments">
+    <div class="payments-container">
+
+      <!-- UPI Card -->
+      <div class="payment-card-custom">
+        <div class="payment-card-header">
+          <span class="icon">📱</span> UPI / GPay / PhonePe / Paytm
+        </div>
+
+        <div class="payment-qr">
+          <img src="images/qr-code.png" alt="QR Code" class="qr-image">
+        </div>
+
+        <div class="payment-row">
+          <span class="row-label">UPI ID</span>
+          <span class="row-val">gowtham4muruugan@oksbi</span>
+        </div>
+        <div class="payment-row">
+          <span class="row-label">Payee Name</span>
+          <span class="row-val">Gowtham A V</span>
+        </div>
+
+        <p class="payment-note">Scan the QR code or pay to the UPI ID above using any UPI app, then send us your payment
+          screenshot on WhatsApp along with your order list.</p>
+      </div>
+
+      <!-- Bank Transfer Card -->
+      <div class="payment-card-custom">
+        <div class="payment-card-header">
+          <span class="icon">🏦</span> Bank Transfer (NEFT / RTGS)
+        </div>
+
+        <div class="payment-row">
+          <span class="row-label">Account Name</span>
+          <span class="row-val">Vikram Traders</span>
+        </div>
+        <div class="payment-row">
+          <span class="row-label">Account Number</span>
+          <span class="row-val">5021 0000 4521 09</span>
+        </div>
+        <div class="payment-row">
+          <span class="row-label">IFSC Code</span>
+          <span class="row-val">HDFC0004521</span>
+        </div>
+        <div class="payment-row">
+          <span class="row-label">Branch</span>
+          <span class="row-val">Sivakasi Branch</span>
+        </div>
+
+        <p class="payment-note">After transferring, please share the transaction reference and a screenshot with us on
+          WhatsApp so we can confirm and process your order right away.</p>
+
+        <a href="https://wa.me/919655656041" target="_blank" class="btn-whatsapp">💬 Send Payment Screenshot on
+          WhatsApp</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Our Location Section -->
+  <section class="payment-location-section" id="location" style="background: var(--bg-color);">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <div class="feature-card gsap-fade-up">
+        <h3 class="text-large serif" style="margin-bottom:20px; text-align:center;">Our Location</h3>
+        <div style="border-radius:12px; overflow:hidden; margin-bottom:20px;">
+          <iframe src="https://maps.google.com/maps?q=Sivakasi%2C%20Tamil%20Nadu&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <div style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 12px;">
+          <div style="margin-bottom:10px;"><strong>Address:</strong><br>7/142, Naranapuram Main Road, Sivakasi, Tamil
+            Nadu – 626123</div>
+          <div style="margin-bottom:10px;"><strong>Phone:</strong><br>+91 96556 56041</div>
+          <div style="margin-bottom:0;"><strong>Email:</strong><br>vikramtraders@gmail.com</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h3>Vikram Traders</h3>
+        <p style="color:#aaa; line-height:1.6;">Three generations of Sivakasi cracker-making, brought straight to your
+          door at wholesale prices.</p>
+      </div>
+      <div class="footer-col">
+        <h4 style="font-family:'Geist'; font-size:1.2rem; margin-bottom:20px;">Quick Links</h4>
+        <ul class="footer-links">
+          <li><a href="#hero">Home</a></li>
+          <li><a href="#gift-boxes">Gift Boxes</a></li>
+          <li><a href="#">Download PDF Price List</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4 style="font-family:'Geist'; font-size:1.2rem; margin-bottom:20px;">Contact</h4>
+        <ul class="footer-links">
+          <li><a href="#">7/142, Naranapuram Main Road, Sivakasi</a></li>
+          <li><a href="tel:+919655656041">+91 96556 56041</a></li>
+          <li><a href="mailto:vikramtraders@gmail.com">vikramtraders@gmail.com</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2026 Vikram Traders. All rights reserved.</div>
+      <div>Use fireworks responsibly.</div>
+    </div>
+  </footer>
+
+  <!-- Floating Socials -->
+  <div class="floating-socials">
+    <a href="https://wa.me/919655656041" target="_blank" class="float-btn float-wa" title="WhatsApp">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <path
+          d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z">
+        </path>
+      </svg>
+    </a>
+    <a href="https://www.instagram.com/vikramtraderssivakasi/" target="_blank" class="float-btn float-ig"
+      title="Instagram">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z"></path>
+        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+      </svg>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61579643154691" target="_blank" class="float-btn float-fb"
+      title="Facebook">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3.81l.39-4h-4V7a1 1 0 011-1h3z"></path>
+      </svg>
+    </a>
+  </div>
+
+  <!-- GSAP & ScrollTrigger -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+  <!-- Custom JS -->
+  <script src="fireworks.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
